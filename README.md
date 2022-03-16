@@ -1,13 +1,13 @@
 # American-Eagle Clone
----
+
+<p> American Eagle is an E-commerce website where we can buy new American Eagle Branded Clothes online. We can filter the dresses by costs, Price Range etc..We can add the items in carts and wishlist then buy the products by checking out.<p/>
 
 ---
 # Welcome :wave:
 ---
----
 # Link to our Project website:
 
-jeevan243.github.io/american-eagle-web/
+https://jeevan243.github.io/American-Eagle-Web/
 ---
 
 ### About this project: :raised_hands:
@@ -64,9 +64,22 @@ First you have to have to go to the signup page and create a new account. Then y
 ---
 
 ### Screenshots:
+<hr/>
 
-![image](file:///C:/Users/goliv/Dropbox/PC/Downloads/Screenshot%20(400)%20(1).webp)
-![image]()
-![image]()
-![image]()
+## Home_Page
+
+![Screenshot (400)](https://user-images.githubusercontent.com/95854153/158534981-ef3b0090-a5a0-4d4f-a393-6c0b2e16d9c7.png)
+
+## Products_Page
+
+![Screenshot (401)](https://user-images.githubusercontent.com/95854153/158534510-bf22be74-877b-447d-9c87-d8707648967a.png)
+
+## Cart_Page
+
+![Screenshot (405)](https://user-images.githubusercontent.com/95854153/158534638-4b24f974-b5d5-4c1b-aaf6-4b5c5aa8e138.png)
+
+## Payment_Page
+
+![Screenshot (407)](https://user-images.githubusercontent.com/95854153/158534819-63bed0be-1724-49d9-ba44-3c19f6b4334f.png)
+
 
