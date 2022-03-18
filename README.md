@@ -37,7 +37,7 @@ https://jeevan243.github.io/American-Eagle-Web/
 
 - `Home Page`: Responsiveness, WhatsApp Chat.
 - `Sign-Up Page`: User details validated directly from local stroage.
-- `Sign-In Page`: User authentication to check whether user email and password match with details existing in the loacal storage.
+- `Sign-In Page`: User authentication to check whether user email and password match with details existing in the local storage.
 - `Product Category Page`: Products created dynamically, with sorting and filtering features.
 - `Cart Page`: User can see or remove products added in the cart.
 - `Wishlist Page`: Users can add or remove products to the wishlist.
