@@ -35,7 +35,7 @@ https://jeevan243.github.io/American-Eagle-Web/
 
 ### Pages & Features :point_down:
 
-- `Home Page`: Responsiveness, WhatsApp Chat.
+- `Home Page`: Gave same styles and images to feel like the original site .
 - `Sign-Up Page`: User details validated directly from local stroage.
 - `Sign-In Page`: User authentication to check whether user email and password match with details existing in the local storage.
 - `Product Category Page`: Products created dynamically, with sorting and filtering features.
